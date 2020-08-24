@@ -17,7 +17,7 @@
   
 [GGJ-2019's Postmortem: How to Meet (Rare) Diversifiers and fail](https://habr.com/ru/post/465829/)  
   
-[Как сделать костыль для Тинькофф Инвестиций своими руками или уведомления об action required for take profit / stop loss] https://habr.com/ru/post/442734/  
+[Как сделать костыль для Тинькофф Инвестиций своими руками или уведомления об action required for take profit / stop loss](https://habr.com/ru/post/442734/)  
   
 [Как продвинуть инкрементальную игру? Бесплатно, быстро и эффективно*](https://habr.com/en/post/442466/)  
   
