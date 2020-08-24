@@ -1,4 +1,4 @@
-#English
+# English
 
 (in Russian) [Tutorial: How to create your first incremental IDLE game with Javascript](https://habr.com/en/post/465829/)  
   
@@ -11,7 +11,7 @@
 (in Russian) [UGJ-2019's Fiasco Story: How to Make a game with a lowest critic score in the records (don't do the same!)](https://habr.com/en/post/424541/)  
   
   
-#Russian
+# Russian
 
 [Tutorial: How to create your first incremental IDLE game with Javascript](https://habr.com/ru/post/465829/)  
   
