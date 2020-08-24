@@ -13,7 +13,7 @@
   
 # Russian
 
-[Tutorial: How to create your first incremental IDLE game with Javascript](https://habr.com/ru/post/465829/)  
+[[Туториал] Как создать вашу первую инкрементальную IDLE игру на JavaScript](https://habr.com/ru/post/465829/)  
   
 [GGJ-2019's Postmortem: How to Meet (Rare) Diversifiers and fail](https://habr.com/ru/post/465829/)  
   
