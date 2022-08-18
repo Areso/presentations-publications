@@ -1,20 +1,20 @@
 # English
 
-## YaTalks: DB events notify tool (in Russian)
-DB events notify tool - my presentation at Yandex' Big Pytup about a small solution, which allows to send notifications, when watched table in a DB is changed. Slides in Russian.  
+## YaTalks: DB events notification tool (in Russian)
+DB events notification tool - my presentation at Yandex' Big Pytup about a small solution, which allows to send notifications, when the observed table in a DB is changed.  
   
 ## Peak IT, UrFU: CICD of the Data and the Code in Enterprise (in Russian)
-It's a difficult task, to create CICD process for relatively big amount of DATA for testing and staging environments. Data copying, processing, cutting and masking. In the speech I show how we handle this task, methods and instruments we use in MegaFon (cellular company). CICD of the Code was covered in the first lecture, which was done by colleague of mine.   
+It's a difficult task to create CICD process for relatively big amount of data for testing and staging environments: data copying, processing, cutting and masking. In the speech I show how we handle this task, the methods and the instruments we use in MegaFon (a cellular company). CICD of the Code was covered in the first lecture, which was done by a colleague of mine.   
   
-## Skillbox, Fast deploy VMs and preparing environments for hackatons and gamejams (in Russian)
-Webinar (during the COVID-limitations) describes most popular SCM (System Configuration Management) outta here with primary focus on Ansible. Covered 'Getting Started' topic. On masterclass we deploy VMs in a public cloud, update packages, kernels, install software, make integration with Git server (Gitlab) and finally make our own very basic CICD solution.   
+## Skillbox, Fast deployment of VMs and preparing environments for hackatons and gamejams (in Russian)
+The webinar describes most popular SCMs (System Configuration Management) out here with a primary focus on Ansible. Covered 'Getting Started' topic. At the masterclass we deploy VMs in a public cloud, update packages, kernels, install software, make integration with Git server (Gitlab) and finally make our own very basic CICD solution.   
   
 [The recording is available here](https://www.youtube.com/watch?v=Gnx-Xy_PxyA)  
   
   
 # Russian
 
-## YaTalks: DB events notify tool
+## YaTalks: DB events notification tool
 Доклад на большом Питапе Яндекса. Краткий обзор инструмента для отслеживания измений в таблицах и отправляющий СМСки по внешнему API.  
   
 ## Пик Айти, УрФУ: CICD кода и данных в Enterprise
