@@ -7,7 +7,7 @@
 |English| [How to promote an incremental game? Free of charge, fast and effective*](https://habr.com/en/post/436712/)  
 |Russian| [Tutorial: How to create your first incremental IDLE game with Javascript](https://habr.com/en/post/465829/)  
 |Russian| [GGJ-2019's Postmortem: How to Meet (Rare) Diversifiers and fail](https://habr.com/en/post/465829/)  
-|Russian| [UGJ-2019's Fiasco Story: How to Make a game with a lowest critic score in the records (don't do the same!)](https://habr.com/en/post/424541/)  
+|Russian| [UGJ-2019's Fiasco Story: How to Make a game with the lowest critic score in the records (don't do the same!)](https://habr.com/en/post/424541/)  
   
   
 # Названия моих работ на русском - titles in Russian
